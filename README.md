@@ -12,6 +12,7 @@ docker run -d --name container_ship_counter -p 8000:8000 image_ship_counter
 ```
 
 3) Take a data from resources/data, or generate using data_generator.py, or generate by yourself
+
 For example:
 ```json
 {"board": "##--------\n--########\n----------\n#-----##-#\n#-##-#---#\n#----#---#\n#----#--#-\n#-##-#--#-\n--------#-\n-######---"}
